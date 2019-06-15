@@ -1,4 +1,4 @@
-# Angular-My-store-practice
+# Angular-My-store-project
 
 Learning basics of Angular (https://angular.io/start).
 
