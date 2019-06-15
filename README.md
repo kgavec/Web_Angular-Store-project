@@ -4,7 +4,7 @@ Learning basics of Angular (https://angular.io/start).
 
 See project code source: [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-angular-pc5-kgc)
 
-Try web created: [store_web](https://web-angular-pc5-kgc.stackblitz.io/)
+Test web created: [store_web](https://web-angular-pc5-kgc.stackblitz.io/)
 
 (Interface example below)
 
